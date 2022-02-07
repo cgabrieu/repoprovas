@@ -1,0 +1,6 @@
+[submodule "repoprovas-api"]
+	path = repoprovas-api
+	url = https://github.com/cgabrieu/repoprovas-api
+[submodule "repoprovas-front"]
+	path = repoprovas-front
+	url = https://github.com/cgabrieu/repoprovas-front
